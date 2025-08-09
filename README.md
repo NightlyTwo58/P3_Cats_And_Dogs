@@ -1,4 +1,4 @@
-# Natural Resource Exports & HDI Analysis
+# Cats and Dogs Image Classification
 
 ## Project Overview
 This project is a Convolutional Neural Network (CNN) designed to classify images of cats and dogs. The model's architecture is a custom-built deep network with 4 convolutional blocks, a BatchNormalization layer after each convolution, and a ReLU activation function.
